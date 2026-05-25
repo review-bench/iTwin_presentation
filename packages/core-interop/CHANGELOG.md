@@ -1,5 +1,16 @@
 # @itwin/presentation-core-interop
 
+## 2.0.0-alpha.2
+
+### Minor Changes
+
+- [#1350](https://github.com/iTwin/presentation/pull/1350): `createECSqlQueryExecutor`: Updated to handle both positional and named bindings when creating query readers.
+
+### Patch Changes
+
+- Updated dependencies:
+  - @itwin/presentation-shared@2.0.0-alpha.11
+
 ## 2.0.0-alpha.1
 
 ### Patch Changes

@@ -1,5 +1,13 @@
 # @itwin/unified-selection
 
+## 1.7.5-alpha.0
+
+### Patch Changes
+
+- f0a0cde7337470729674f8b56a709e671f9786c1: Bump dependencies.
+- Updated dependencies:
+  - @itwin/presentation-shared@2.0.0-alpha.11
+
 ## 1.7.4
 
 ### Patch Changes
